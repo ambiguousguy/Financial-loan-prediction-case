@@ -1,5 +1,5 @@
 # Financial-loan-prediction-case
-**(sorry for that, since the jupyternote book havent save the checkpoint,  result didnt show in it, if wanna to know, the ppt file 'project show' is available )**
+**(sorry for that, since the jupyternote book havent save the checkpoint,  result didnt show in it, if wanna to know , the ppt file 'project show' is available )**
 
 ## Project introduction
 1.this project basing on the competition of Ali Tianchi, with total 32 variables, 800000 observation in train set, 200000 observation in test set<br>
